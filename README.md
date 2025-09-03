@@ -1,1 +1,1 @@
-# runpodwork
+[![Runpod](https://api.runpod.io/badge/AlfredSjoqvist/runpod-worker)](https://console.runpod.io/hub/AlfredSjoqvist/runpod-worker)

@@ -1,0 +1,10 @@
+{
+  "tests": [
+    {
+      "name": "basic",
+      "input": { "text": "I love this!" },
+      "timeout": 60000
+    }
+  ]
+}
+

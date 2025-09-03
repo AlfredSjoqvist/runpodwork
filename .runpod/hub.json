@@ -1,0 +1,10 @@
+{
+  "title": "My Worker",
+  "description": "Custom model endpoint",
+  "type": "serverless",
+  "category": "ai",
+  "config": {
+    "runsOn": "GPU",
+    "containerDiskInGb": 20
+  }
+}

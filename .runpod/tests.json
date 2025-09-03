@@ -1,10 +1,9 @@
 {
   "tests": [
     {
-      "name": "basic",
-      "input": { "text": "I love this!" },
+      "name": "echo-smoke",
+      "input": { "hello": "world" },
       "timeout": 60000
     }
   ]
 }
-

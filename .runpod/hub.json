@@ -1,10 +1,10 @@
 {
-  "title": "My Worker",
-  "description": "Custom model endpoint",
+  "title": "Tiny Test Worker",
+  "description": "Minimal serverless worker for echo/smoke tests. No CUDA/torch.",
   "type": "serverless",
-  "category": "ai",
+  "category": "utility",
   "config": {
-    "runsOn": "GPU",
-    "containerDiskInGb": 20
+    "runsOn": "CPU",
+    "containerDiskInGb": 5
   }
 }

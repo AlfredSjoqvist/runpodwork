@@ -1,0 +1,16 @@
+.git
+**/__pycache__/
+**/*.ipynb_checkpoints
+node_modules
+.venv
+venv
+.env
+data/
+datasets/
+outputs/
+results/
+models/
+weights/
+*.pt
+*.ckpt
+*.safetensors
